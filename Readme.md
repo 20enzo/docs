@@ -7,7 +7,9 @@
 ## Getting Started
 
 1. [Fork this repo](/fork).
-2. `yarn && yarn start`
+2. Clone this repo (i.e.: git clone https://github.com/20enzo/docs.git )
+3. go to docs folder (i.e.: cd docs)
+2. execute command: `yarn && yarn start`
 3. <http://localhost:3333/> should open automatically.
 
 ## Authoring Pages
